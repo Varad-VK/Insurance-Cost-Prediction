@@ -10,8 +10,8 @@ Insurance-Cost-Prediction is an Machine Learning based project
     1.2. [Pickle](#12-Pickle)  
  
 2. [Web Development](#2-Web-Development)  
-    1.1. [Flask](#11-Flask)  
-    1.2. [Bootstrap](#13-Bootstrap)
+    2.1. [Flask](#11-Flask)  
+    2.2. [Bootstrap](#12-Bootstrap)
 
 # 1. Machine Learning and Python
 ![input](https://user-images.githubusercontent.com/65712774/131698464-f422da77-141f-476b-aa73-655fea4ed77c.png)
