@@ -17,8 +17,8 @@ Insurance-Cost-Prediction is an Machine Learning based project
 ![input](https://user-images.githubusercontent.com/65712774/131698464-f422da77-141f-476b-aa73-655fea4ed77c.png)
 ![output](https://user-images.githubusercontent.com/65712774/131698481-5d59b2b8-4c7d-4a01-a23f-1678833cf27b.png)
 ### 1.1. Multiple Linear Regression
-**Dependent Variables : ** <br />
-** Independent Variables: ** <br />
+**Dependent Variables : Charges** <br />
+**Independent Variables: Age, Sex, BMI, Childern, Smoker, Region** <br />
 
 ### 1.2. Pickle
 Model is Saved using Pickle library(Python).
