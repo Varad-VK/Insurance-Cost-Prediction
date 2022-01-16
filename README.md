@@ -8,6 +8,7 @@ Insurance-Cost-Prediction is an Machine Learning based project
  1. [Machine Learning and Python](#1-Machine-Learning-and-Python)  
     1.1. [Multiple Linear Regression](#11-Multiple-Linear-Regression)    
     1.2. [Pickle](#12-Pickle)  
+    1.3. [Libraries Used](#13-Libraries Used in Python)  
  
 2. [Web Development](#2-Web-Development)  
     2.1. [Flask](#21-Flask)  
@@ -22,6 +23,9 @@ Insurance-Cost-Prediction is an Machine Learning based project
 
 ### 1.2. Pickle
 Model is Saved using Pickle library(Python).
+
+### 1.3. Libraries Used in Python
+**Numpy, Pandas, Matplotlib, Sklearn, Pickle, Flask **
 
 # 2. Web Development
 ### 2.1. Flask
